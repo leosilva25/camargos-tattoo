@@ -1,0 +1,87 @@
+.somos{
+    text-align: center;
+    padding-top: 80px;
+    padding-bottom: 15px;
+    
+}
+
+article{
+    background-color: rgba(0, 0, 0, 0.875);
+}
+
+.article{
+    
+    text-align: center;
+   
+    padding-top: 10px;
+}
+
+#perfil{
+ 
+  display: block;
+  margin-top: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+  border-radius: 5px;
+   
+}
+
+h3{
+    text-align: center;
+    width: 300px;
+    margin-top: 15px;
+    background-color: rgba(128, 128, 128, 0.486);
+    border-radius: 5px;
+    font-size: 24px;
+}
+
+
+
+.main{
+    font-size: 20px;
+    padding-top: 15px;
+    text-align: center;
+}
+
+
+
+.img{
+ 
+  display: flex;
+  
+  gap: 10px;
+}
+
+.h3{
+    text-align: center;
+    width: 300px;
+    margin-top: 25px;
+    background-color: rgba(128, 128, 128, 0.486);
+    border-radius: 5px;
+    font-size: 24px;
+}
+
+#social{
+    display: flex;
+    flex-direction: row;
+    padding-top: 15px;
+   
+}
+
+.redes{
+    text-align: center;
+    
+}
+
+.insta{
+   width: 170px;
+}
+
+.whats{
+    width: 150px;
+}
+
+.facebook{
+    width: 150px;
+}

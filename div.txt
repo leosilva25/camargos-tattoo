@@ -1,0 +1,5 @@
+<div class="p">
+                    <P>Faça sua tatuamgem conosco <br>
+                        Entre em contato para fazer um orçamento !
+                    </P>
+                </div>

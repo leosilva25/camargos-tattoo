@@ -1,0 +1,76 @@
+
+
+*{
+    box-sizing: border-box;
+    padding: 0 auto;
+    margin: 0 auto;
+}
+
+
+body{
+    background-color: black;
+    color: #ccc;
+}
+
+a{
+    text-decoration: none;
+    color: #ccc;
+    text-align: center;
+}
+
+.header{
+    
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-items: center;
+    justify-content:space-around;
+    text-align: center;
+    background-image: url(images/máquina-removebg-preview.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center center ;
+}
+
+i{
+    cursor: pointer;
+    text-align: center;
+    margin: auto;
+    width: 70%;
+    background-color: rgba(128, 128, 128, 0.534);
+    border-radius: 5px;
+   
+    
+}
+
+menu{
+    display: none;
+}
+
+.links{
+    padding: 80px;
+    
+    font-size: 20px;
+    
+}
+
+.menu:hover{
+    transition: 0.5s;
+    border: 1px solid white;
+    background-color: gray;
+    border-radius: 5px;
+}
+
+div .p{
+  
+    border-radius: 15px;
+    border: 1px solid white;
+    height: 70px;
+    width: 300px;
+    background-color: white;
+    color: black;
+    margin-top: 90px;
+    margin-left: 15px;
+    text-align: center;
+}
+
